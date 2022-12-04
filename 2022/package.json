@@ -11,7 +11,7 @@
 		"generate": "graphql-codegen --config codegen.yml",
 		"watch": "tsc --watch",
 		"build": "tsc",
-		"start": "ts-node-esm ./3/main.ts"
+		"start": "ts-node-esm ./4/main.ts"
 	},
 	"devDependencies": {
 		"@swc/core": "^1.3.20",
